@@ -12,5 +12,9 @@
     * [Ruby](https://github.com/RNCryptor/ruby_rncryptor) 
     * [ANSI C](https://github.com/megabri/MGCryptor) -- Optimized for microcontrollers. Not compatible with other implementations.
 * [RNPinnedCertValidator](https://github.com/rnapier/RNPinnedCertValidator)
+* [NSData+RNSecureCompare](https://github.com/rnapier/NSData-RNSecureCompare)
 * [HT5012: iOS: List of available trusted root certificates](http://support.apple.com/kb/HT5012)
 * [Apple's iOS Security Document](https://www.apple.com/la/iphone/business/docs/iOS_Security_May12.pdf) -- Explains how Data Protection is implemented
+* [Finding the app prefix for keychain](http://stackoverflow.com/questions/11726672/access-app-identifier-prefix-programmatically)
+* [SGKeychain](https://github.com/secondgear/SGKeychain)
+* [AES Crypt](http://www.aescrypt.com)
